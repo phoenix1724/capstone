@@ -192,6 +192,16 @@ function Score() {
         timer={selectedTimer}
         sport={selectedSport}
       />
+      <footer style={{
+  textAlign: "center",
+  marginTop: "40px",
+  padding: "10px",
+  fontWeight: "bold",
+  color: "#4A4A4A"
+}}>
+  Made with ❤️ by Isha Jakhad
+</footer>
+
     </>
   );
 }
